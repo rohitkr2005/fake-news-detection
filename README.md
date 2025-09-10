@@ -80,14 +80,3 @@ Add more advanced deep learning models (LSTMs, Transformers).
 Improve dataset with more real-world examples.
 
 Deploy online (Heroku, Streamlit Cloud).
-
-
-## ✅ Ready to push! Just make sure you include:
-
-requirements.txt
-
-app.py
-
-fake_news_model.pkl & tfidf_vectorizer.pkl
-
-Optionally, assets/ folder for screenshots.
